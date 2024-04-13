@@ -1,7 +1,5 @@
-<div style="text-align: center;">
-  Hi there 👋
-</div>
-
+<p><b>            Hi there 👋
+</b></p>
 
 
 <pre>
