@@ -21,5 +21,5 @@
 - 👯 I’m looking to collaborate on Java and Cybersecurity projects 
 - 📫 How to reach me: ```https://linkedin.com/in/dan193 ```
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ##### There are over 700 coding languages and you have to be proficient in only 001
+- ⚡ Fun fact: There are over 700 coding languages and you have to be proficient in only 001
 
