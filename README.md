@@ -1,5 +1,8 @@
-<h1><center><b> Hi there 👋
-</b></center></h1>
+<h1><b><div style="text-align: center;">
+  Hi there 👋
+</div>
+
+</b></h1>
 
 <pre>
   _      __    __                    __                                   ____ __   
